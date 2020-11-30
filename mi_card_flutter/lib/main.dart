@@ -19,6 +19,25 @@ class MyApp extends StatelessWidget {
                 backgroundImage: AssetImage('images/Arif.jpg'),
                 radius: 50.0,
               ),
+              Text(
+                'Md Arif Hossain',
+                style: TextStyle(
+                  fontFamily: 'Pacifico',
+                  fontSize: 30.0,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.white,
+                ),
+              ),
+              Text(
+                'React and Flutter Developer',
+                style: TextStyle(
+                  fontFamily: 'Source Sans Pro',
+                  fontSize: 15.0,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.white,
+                  letterSpacing: 2.5
+                ),
+              ),
             ],
           ),
         ),
