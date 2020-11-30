@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 # Screenshot
-![app](https://github.com/arifpro/getting-started-flutter/blob/main/Images/i_am_poor.png)
+![app](https://github.com/arifpro/getting-started-flutter/blob/main/Images/i_am_poor.png =200x400)
